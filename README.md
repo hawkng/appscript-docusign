@@ -3,7 +3,8 @@
 
 #### No separate server is required, which means you can host it within your Gmail or Google Workspace (G Suite) account without extra cost!
 
-#### :book: [Demo](https://script.google.com/macros/s/AKfycbwGbe9BYrs4Fej0aoSj6ad0W2vhJRXSynK-11IttfxLL6F0YRk/exec) available
+#### :book: [Live Demo](https://script.google.com/macros/s/AKfycbwGbe9BYrs4Fej0aoSj6ad0W2vhJRXSynK-11IttfxLL6F0YRk/exec) available
+     :movie_camera: [Screen recording](https://drive.google.com/file/d/1qrTp309q8hbmv3OSd-eL9n62b_0mSZfY/view?usp=sharing)
 
 1. It takes quite a while to submit the e-signature request thru DocuSign API, the progress loading below is normal  
    ![submission loading](https://github.com/hawkng/appscript-docusign/blob/main/docusign-loading.png)
