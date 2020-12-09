@@ -6,7 +6,7 @@
 #### :book: [Demo](https://script.google.com/macros/s/AKfycbwGbe9BYrs4Fej0aoSj6ad0W2vhJRXSynK-11IttfxLL6F0YRk/exec) available
 
 1. It takes quite a while to submit the e-signature request thru DocuSign API, the progress loading below is normal  
-   ![submission loading](https://drive.google.com/uc?export=view&id=1q1hGPzIxk5uaeSCRC5HZlbTydqdRz5cQ)
+   ![submission loading](https://github.com/hawkng/appscript-docusign/blob/main/docusign-loading.png)
 
 2. Once submitted successfully, recipient will be notified via email given in the form  
    ![submitted](https://drive.google.com/uc?export=view&id=1wnbieCR5Xs2Fi-9M8Iu8JvH7hM9YO1wI)
