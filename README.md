@@ -4,10 +4,10 @@
 #### No separate server is required, which means you can host it within your Gmail or Google Workspace (G Suite) account without extra cost!
 
 * It takes quite a while to submit the e-signature request thru DocuSign API, the progress loading below is normal
-![submission loading](https://drive.google.com/uc?export=view&id=1q1hGPzIxk5uaeSCRC5HZlbTydqdRz5cQ)
+  ![submission loading](https://drive.google.com/uc?export=view&id=1q1hGPzIxk5uaeSCRC5HZlbTydqdRz5cQ)
 
 * Once submitted successfully, recipient will be notified via email given in the form
-![submitted](https://drive.google.com/uc?export=view&id=1wnbieCR5Xs2Fi-9M8Iu8JvH7hM9YO1wI)
+  ![submitted](https://drive.google.com/uc?export=view&id=1wnbieCR5Xs2Fi-9M8Iu8JvH7hM9YO1wI)
 
 * Sample Email Notification e-sign request
 ![email sign request](https://drive.google.com/uc?export=view&id=1RZjSycVaER80J5QbcYf8wTkImLKnc9ne)
